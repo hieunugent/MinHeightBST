@@ -5,7 +5,7 @@
 - array = [1, 2, 5, 7, 10, 13 ,14 ,15 ,22]
 - they can get multiple outcome here is one:
 
--![alt text](https://github.com/hieunugent/MinHeightBST/blob/master/Untitled%20Diagram.png)
+     -![alt text](https://github.com/hieunugent/MinHeightBST/blob/master/Untitled%20Diagram.png)
    
  # Solution
  - get the midpoint of the array and add to the tree, 
